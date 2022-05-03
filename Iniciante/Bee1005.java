@@ -1,7 +1,7 @@
 package Iniciante;
 /*beecrowd | 1005 troca classe para Main, para passar, Tira nome do package*/
 import java.util.Scanner;
-public class Main {
+public class Bee1005 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         float pesoNotaA= 3.5f;
