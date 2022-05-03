@@ -1,5 +1,5 @@
 package Iniciante;
-/*beecrowd | 1003 troca classe para Main, para passar*/ 
+/*beecrowd | 1003 troca classe para Main, para passar, Tira nome do package*/
 import java.util.Scanner;
 public class Bee1003 {
 

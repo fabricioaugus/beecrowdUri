@@ -1,8 +1,8 @@
 package Iniciante;
-/*beecrowd | 1002 troca classe para Main, para passar*/
+/*beecrowd | 1002 troca classe para Main, para passar, Tira nome do package*/
 import java.util.Scanner;
 public class Bee1002{
-    
+
     public static void main(String[] args)   {
         double pi = 3.14159;
         Scanner scanner = new Scanner(System.in);
